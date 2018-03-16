@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = "SB3DTouchColorSettings";
+		cell = PSLinkCell;
+		detail = "SB3DTouchColorPreferenceController";
+		icon = "SB3DTouchColor";
+		isController = 1;
+		label = "SB3DTouchColor";
+	};
+}

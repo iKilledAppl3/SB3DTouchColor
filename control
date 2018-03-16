@@ -1,0 +1,10 @@
+Package: com.cc.sb3dtouchcolor
+Name: SB3DTouchColor
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Shortcut menu color based on app icon.
+Maintainer: cole cabral
+Author: cole cabral
+Section: Tweaks
+Depiction: http://ca13ra1.github.io/repo/sb3dtouchcolor/index.html
